@@ -3,7 +3,7 @@
 Bem vindo a todos!
 
 Diante do meu crescimento pessoal em relação ao desenvolvimento WEB, decidi criar meu próprio Portfólio para expor meus projetos pessoais!
-Todos o meus dados de contato, em caso de dúvidas, estão no portfólio que pode ser pré visualizado nas imagens abaixo!
+Todos o meus dados de contato, em caso de dúvidas, estão no portfólio que pode ser pré visualizado na imagem abaixo!
 
 
 
